@@ -1,0 +1,109 @@
+[
+  
+
+  {
+    "name": "Ascend AI (Ongoing)",
+    "desc": "Building an AI-powered personal development tool that leverages NLP, ML, and gamification to help users set and achieve their goals, build positive habits, and break negative ones, all while integrating seamlessly with existing platforms like Google Calendar.",
+    "image": "ascend",
+    "category": "web",
+    "links": {
+      "view": "https://ascend-ai.framer.website",
+      "code": "#"
+    }
+  },
+  {
+    "name": "Flashcard SaaS",
+    "desc": "Web App built using React, Next.js, Typescript, Stripe, Clerk, Firebase and Open AI Router API, to allow users create flashcards in seconds with a single prompt.",
+    "image": "flashcard3",
+    "category": "web",
+    "links": {
+      "view": "https://flashcard-saas-two-phi.vercel.app",
+      "code": "https://github.com/radleyle/flashcard-saas"
+    }
+  },
+  {
+    "name": "Event Finder",
+    "desc": "Web app using Node.js, Express, React, Google Gemini AI, and the Ticketmaster API to help users find nearby events.",
+    "image": "event",
+    "category": "web",
+    "links": {
+      "view": "https://hackathon7-27-fejn-ptiovtni0-ahseya03s-projects.vercel.app",
+      "code": "https://github.com/mahmoodayesha/hackathon7-27"
+    }
+  },
+  {
+    "name": "StockMASTER",
+    "desc": "Web app built using React.js, Next.js, Firebase, Chart.js, MUI for users to track their pantry items with visualization .",
+    "image": "stock",
+    "category": "web",
+    "links": {
+      "view": "https://yourstockmaster.vercel.app/auth/login",
+      "code": "https://github.com/mahmoodayesha/Pantry-Tracker"
+    }
+  },
+   {
+    "name": "i-Coach",
+    "desc": "This project idea won UWB Hacks AI, created a simple website using HTML/CSS for idea, research, and prototype",
+    "image": "icoach",
+    "category": "prototyping",
+    "links": {
+      "view": "https://mahmoodayesha.github.io/Hackathon_Nova/",
+      "code": "https://github.com/mahmoodayesha/Hackathon_Nova"
+    }
+  },
+  {
+    "name": "Resume Parser",
+    "desc": "This Flask web application uses Python, Flask, SQLite, and various NLP and machine learning tools to automate the screening of internship resumes by matching job descriptions with candidate resumes.",
+    "image": "resumeparser",
+    "category": "web",
+    "links": {
+      "view": "https://www.youtube.com/watch?v=35JLXgp0iHk",
+      "code": "https://github.com/mahmoodayesha/AIResumeParser"
+    }
+  },
+  {
+    "name": "Helmet Detector",
+    "desc": "This Flask web application uses Python, Flask, OpenCV, YOLOv8, NumPy, and Base64 for helmet detection in images and videos, automating safety verification in high-risk environments like construction sites.",
+    "image": "helmet2",
+    "category": "web",
+    "links": {
+      "view": "https://www.youtube.com/watch?v=M7vVRJ8u3Nw",
+      "code": "https://github.com/mahmoodayesha/Helmet-Detection-Project"
+    }
+  },
+  {
+    "name": "SAB",
+    "desc": "This project includes prototype design for Smart Home App.",
+    "image": "SAB",
+    "category": "prototyping",
+    "links": {
+      "view": "https://www.figma.com/embed?embed_host=share&url=https%3A%2F%2Fwww.figma.com%2Fdesign%2F172trRhZErcGZE6ElsyQ13%2FFigma-Prototype%3Fnode-id%3D0-1%26t%3DgneWN3feH6BSXGJ2-1",
+      "code": "#"
+      
+    }
+  },
+  {
+    "name": "Canvas AI Extension",
+    "desc": "This project includes prototype design and idea for canvas AI extension to help students who have  ADHD to help them stay on track.",
+    "image": "canvas",
+    "category": "prototyping",
+    "links": {
+      "view": "https://www.figma.com/design/172trRhZErcGZE6ElsyQ13/Figma-Prototype?node-id=0-1&t=gneWN3feH6BSXGJ2-1",
+      "code": "#"
+      
+    }
+  },
+  
+  
+
+  {
+    "name": "Refuge of Mt. Olive",
+    "desc": "Developed a mobile application using React Native, primarly worked on Resources tab and backend integration for fetching resource data",
+    "image": "romo",
+    "category": "mobile",
+    "links": {
+      "view": "#",
+      "code": "#"
+    }
+  }
+]
